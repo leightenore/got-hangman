@@ -1,0 +1,29 @@
+body {
+    font-family: 'Balthazar', serif;
+}
+
+.jumbotron {
+    margin-top: 5%;
+    background-color: rgba(27, 27, 63, 0.616);
+}
+
+p {
+    font-size: 30px;
+    color: white;
+}
+
+#landingDiv,
+#directions,
+#wordBlanks {
+    text-align: center;
+}
+
+#gameDiv {
+    display: none;
+    padding: 50px;
+}
+
+#wordBlanks {
+    font-size: 7rem;
+    color: white;
+}
