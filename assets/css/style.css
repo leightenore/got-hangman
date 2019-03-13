@@ -27,3 +27,11 @@ p {
     font-size: 7rem;
     color: white;
 }
+
+.swal-overlay {
+    background-color: rgba(16, 16, 19, 0.829);
+  }
+
+.swal-icon {
+    margin: 25px;
+}
